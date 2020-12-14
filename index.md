@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: Your Favorite Source of Free Bootstrap Themes
+  title: Barefoot at the Lake
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    Come to vist our home on Tim's Ford Lake that sits in the shadows of the Cumberland Plateau in south-central Tennessee. The Tims Ford Lake is considered one of the most picturesque lakes in Tennessee and is regarded as one of the top bass fishing and recreational lakes in the Southeast.
   action: # action button is optional
     label: Find Out More
     url: '#about'
